@@ -1,0 +1,22 @@
+{
+  "name": "learnexpressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiangambetta/learnexpressjs.git"
+  },
+  "author": "fgambetta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiangambetta/learnexpressjs/issues"
+  },
+  "homepage": "https://github.com/fabiangambetta/learnexpressjs#readme",
+  "dependencies": {
+    "expressjs": "^1.0.1"
+  }
+}
